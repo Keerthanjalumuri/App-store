@@ -1,0 +1,15 @@
+.app-item-container {
+  list-style: none;
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.app-image {
+  height: 100px;
+  width: 100px;
+}
